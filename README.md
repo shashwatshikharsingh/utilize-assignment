@@ -4,7 +4,7 @@ This is a project assignment for Utilize Internship. It allows you to pick icons
 
 ## Live Demo
 
-[Live Demo](https://www.vercel.app/)
+[Live Demo](https://utilize-assignment-three.vercel.app/)
 
 ## How to run the project
 
